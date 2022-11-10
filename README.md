@@ -54,6 +54,17 @@ ___
 
 <br><br>
   
+
+### <p align="center"> 😃 Status </p>
+___
+<div align="center>
+            
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuminee&show_icons=true&theme=transparent)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuminee&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<br><br>            
+
 ### <p align="center"> 📫 Contact </p>
 ___
 <div align="center">
@@ -62,14 +73,5 @@ ___
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gsm1731@naver.com)](mailto:gsm1731@naver.com)
 </div>
 
-<br><br>
-
-### <p align="center"> 😃 Status </p>
-<div align="center>
-            
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuminee&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuminee&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-  
+<br><br>  
   
