@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 ### 안녕하세요.
 ### 백엔드 주니어 개발자 구수민입니다.
 
-### :paperclip: portfolio : [포트폴리오.pdf](https://github.com/ssuminee/ssuminee/files/9978517/default.pdf)
+### 📄: portfolio : [포트폴리오.pdf](https://github.com/ssuminee/ssuminee/files/9978517/default.pdf)
 
-### <p align="center"> 🛠️ <b>Tech Stack</b> </p>
-#### <p align="center"> Techs that I've used at least once </p> 
+## <p align="center"> 🛠️ <b>Tech Stack</b> </p>
+### <p align="center"> Techs that I've used at least once </p> 
+
+___
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
