@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### 📄: portfolio : [포트폴리오.pdf](https://github.com/ssuminee/ssuminee/files/9978517/default.pdf)
 
-## <p align="center"> 🛠️ <b>Tech Stack</b> <br>
-### Techs that I've used at least once </p> 
+## <p align="center"> 🛠️ Tech Stack </p>
+### <p align="center">Techs that I've used at least once </p> 
 
 ___
 
@@ -42,6 +42,6 @@ ___
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-## <p align="center"> 📫 <b>Tech Stack</b> <br>
+## <p align="center"> 📫 Tech Stack <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rntnalseee@gmail.com)](mailto:rntnalseee@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gsm1731@naver.com)](mailto:gsm1731@naver.com)
