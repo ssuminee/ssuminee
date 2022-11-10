@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=B8CFEC&height=300&section=header&text=Sumin%20Koo&fontSize=90)
+
+##### 안녕하세요.
+##### 백엔드 주니어 개발자 구수민입니다.
+<br>
+
+##### :paperclip: portfolio : [포트폴리오.pdf](https://github.com/ssuminee/ssuminee/files/9978517/default.pdf)
