@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=B8CFEC&height=300&section=header&text=Sumin%20Koo&fontSize=90)
 
-### 안녕하세요.
-### 백엔드 주니어 개발자 구수민입니다.
+#### 안녕하세요.
+#### 백엔드 주니어 개발자 구수민입니다.
 
-### 📄: portfolio : [포트폴리오.pdf](https://github.com/ssuminee/ssuminee/files/9978517/default.pdf)
+### 📄portfolio : [포트폴리오.pdf](https://github.com/ssuminee/ssuminee/files/9978517/default.pdf)
+
+<br><br><br>
 
 
-
-
-## <center> 🛠️ Tech Stack </center>
-### <center>Techs that I've used at least once </center> 
+### <p align="center"> 🛠️ Tech Stack </p>
+### <p align="center">Techs that I've used at least once </p> 
 
 ___
 
@@ -47,7 +47,7 @@ ___
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 </div>
   
-## <center> 📫 Tech Stack </center>
+### <p align="center"> 📫 Tech Stack </p>
 <div align="center">
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rntnalseee@gmail.com)](mailto:rntnalseee@gmail.com)
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gsm1731@naver.com)](mailto:gsm1731@naver.com)
