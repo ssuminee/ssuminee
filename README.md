@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 안녕하세요.
 ### 백엔드 주니어 개발자 구수민입니다.
 
-### 📄portfolio : [포트폴리오.pdf](https://github.com/ssuminee/ssuminee/files/9978517/default.pdf)
+<!-- ### 📄portfolio : [포트폴리오.pdf](https://github.com/ssuminee/ssuminee/files/9978517/default.pdf) -->
 
 <br><br><br>
 
